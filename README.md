@@ -1,8 +1,7 @@
 # SmartCloset-SmartGlasses
 
-##간단한 기획과정 및 작품설명
+간단한 기획과정 및 작품설명
 <p>
-  <p>
 ![SmartCloset,SmartGlasses_1](https://user-images.githubusercontent.com/55124264/71949688-e40e4b00-3217-11ea-8032-c2865c97aed4.png)
 ![SmartCloset,SmartGlasses_2](https://user-images.githubusercontent.com/55124264/71949689-e40e4b00-3217-11ea-8649-d3aeb9fead9e.png)
 ![SmartCloset,SmartGlasses_3](https://user-images.githubusercontent.com/55124264/71949691-e40e4b00-3217-11ea-8aed-35388ff57d19.png)
